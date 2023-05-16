@@ -188,3 +188,25 @@ header nav .btn-primary {
   justify-content: center;
   align-items: center;
 }
+
+/* ============Serction s-newsletter============ */
+
+.s-newsletter{
+  padding: 15.2rem 0px;
+  background-color: var(--gray-colors-200);
+}
+
+.s-newsletter .container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.s-newsletter h2 {
+  margin-bottom: 2rem;
+}
+
+.s-newsletter p{
+  text-align: center;
+  max-width: 69.4rem ;
+}
